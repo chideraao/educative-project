@@ -46,7 +46,7 @@ function Login() {
           onSubmit={handleSubmit}
         >
           <h1>Sign In</h1>
-          <p>Fill in the form below to sign in to your account.</p>
+          <p>Fill the form below to sign in to your account.</p>
           <div className={styles.emailInput}>
             <input
               name="email"
