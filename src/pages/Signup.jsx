@@ -46,7 +46,7 @@ function Signup() {
           onSubmit={handleSubmit}
         >
           <h1>Sign Up</h1>
-          <p>Fill in the form below to sign up.</p>
+          <p>Fill the form below to sign up.</p>
           <div className={styles.emailInput}>
             <input
               name="email"
